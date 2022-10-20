@@ -10,8 +10,7 @@
     <img src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3">
 </p>
 
-    <p align ="center">
+   
+<p align="center">
     <img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js">
     </p>
-
-<p align="center">

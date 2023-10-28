@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript">
     <img src="https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5">
     <img src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3">
+    <img src ="https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
    

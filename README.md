@@ -11,6 +11,10 @@
     <img src ="https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
+ <p align="center">
+    <img src="https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+</p>
+
    
 <p align="center">
     <img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js">

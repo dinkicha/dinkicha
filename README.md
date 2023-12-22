@@ -19,4 +19,5 @@
    
 <p align="center">
     <img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js">
+    <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=%2361DAFB">
     </p>

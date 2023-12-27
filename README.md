@@ -24,4 +24,5 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-000000?style=for-the-badge&logo=firebase&logoColor=white">
 </p>
